@@ -1,0 +1,11 @@
+\\Mac\Home\Downloads\CIBC\Cibc.PriceTestDriver\bin\Debug\Cibc.PriceTestDriver.exe.config
+\\Mac\Home\Downloads\CIBC\Cibc.PriceTestDriver\bin\Debug\Cibc.PriceTestDriver.exe
+\\Mac\Home\Downloads\CIBC\Cibc.PriceTestDriver\bin\Debug\Cibc.PriceTestDriver.pdb
+\\Mac\Home\Downloads\CIBC\Cibc.PriceTestDriver\bin\Debug\Cibc.PriceService.dll
+\\Mac\Home\Downloads\CIBC\Cibc.PriceTestDriver\bin\Debug\Cibc.PriceService.pdb
+\\Mac\Home\Downloads\CIBC\Cibc.PriceTestDriver\obj\x86\Debug\Cibc.PriceTestDriver.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\CIBC\Cibc.PriceTestDriver\obj\x86\Debug\Cibc.PriceTestDriver.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Downloads\CIBC\Cibc.PriceTestDriver\obj\x86\Debug\Cibc.PriceTestDriver.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\CIBC\Cibc.PriceTestDriver\obj\x86\Debug\Cibc.PriceTestDriver.csproj.CopyComplete
+\\Mac\Home\Downloads\CIBC\Cibc.PriceTestDriver\obj\x86\Debug\Cibc.PriceTestDriver.exe
+\\Mac\Home\Downloads\CIBC\Cibc.PriceTestDriver\obj\x86\Debug\Cibc.PriceTestDriver.pdb

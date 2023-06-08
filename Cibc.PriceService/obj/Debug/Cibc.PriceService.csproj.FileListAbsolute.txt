@@ -1,0 +1,6 @@
+\\Mac\Home\Downloads\CIBC\Cibc.PriceService\bin\Debug\Cibc.PriceService.dll
+\\Mac\Home\Downloads\CIBC\Cibc.PriceService\bin\Debug\Cibc.PriceService.pdb
+\\Mac\Home\Downloads\CIBC\Cibc.PriceService\obj\Debug\Cibc.PriceService.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\CIBC\Cibc.PriceService\obj\Debug\Cibc.PriceService.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\CIBC\Cibc.PriceService\obj\Debug\Cibc.PriceService.dll
+\\Mac\Home\Downloads\CIBC\Cibc.PriceService\obj\Debug\Cibc.PriceService.pdb
